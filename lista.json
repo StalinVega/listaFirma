@@ -1,0 +1,72 @@
+{
+    "products": [
+      {
+        "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+        "cover": "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_1.jpg",
+        "images": [
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_1.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_2.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_3.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_4.jpg"
+        ],
+        "name": "Firma Electrónica",
+        "code": "38BEE270",
+        "sku": "WW75K5210YW/SV",
+        "price": 22.4,
+        "priceSale": 22.4,
+        "status": "sale",
+        "inventoryType": "in_stock"
+      },
+      {
+        "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+        "cover": "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_1.jpg",
+        "images": [
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_1.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_2.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_3.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_4.jpg"
+        ],
+        "name": "Firma Electrónica de Certificada",
+        "code": "38BEE270",
+        "sku": "WW75K5210YW/SV",
+        "price": 22.4,
+        "priceSale": 22.4,
+        "status": "sale",
+        "inventoryType": "in_stock"
+      },
+      {
+        "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+        "cover": "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_1.jpg",
+        "images": [
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_1.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_2.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_3.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_4.jpg"
+        ],
+        "name": "Firma Electrónica de Constancia",
+        "code": "38BEE270",
+        "sku": "WW75K5210YW/SV",
+        "price": 22.4,
+        "priceSale": 22.4,
+        "status": "sale",
+        "inventoryType": "in_stock"
+      },
+      {
+        "id": "e99f09a7-dd88-49d5-b1c8-1daf80c2d7b1",
+        "cover": "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_1.jpg",
+        "images": [
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_1.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_2.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_3.jpg",
+          "https://minimal-assets-api-dev.vercel.app/assets/images/products/product_4.jpg"
+        ],
+        "name": "Firma Electrónica Transaccional",
+        "code": "38BEE270",
+        "sku": "WW75K5210YW/SV",
+        "price": 22.4,
+        "priceSale": 22.4,
+        "status": "sale",
+        "inventoryType": "in_stock"
+      }
+    ]
+  }
